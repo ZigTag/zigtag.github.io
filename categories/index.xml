@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ZigTag</title>
-    <link>/categories/</link>
+    <link>https://zigtag.github.io/categories/</link>
     <description>Recent content in Categories on ZigTag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>MIT</copyright>
+    <copyright>&lt;a href=&#34;https://opensource.org/licenses/MIT&#34;&gt;MIT&lt;/a&gt;</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zigtag.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

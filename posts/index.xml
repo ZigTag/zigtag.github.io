@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on ZigTag</title>
+        <link>https://zigtag.github.io/posts/</link>
+        <description>Recent content in Posts on ZigTag</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://opensource.org/licenses/MIT&#34;&gt;MIT&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://zigtag.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Welcome to my blog</title>
+            <link>https://zigtag.github.io/posts/welcome-to-my-blog/</link>
+            <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://zigtag.github.io/posts/welcome-to-my-blog/</guid>
+            <description>Welcome to my blog/website, I will use this to post new projects and random stuff.</description>
+            <content type="html"><![CDATA[<p>Welcome to my blog/website, I will use this to post new projects and random stuff.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
